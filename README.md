@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an integer overflow bug. The bug occurs when the value of an integer variable exceeds the maximum value that can be stored in an integer variable. The solution shows how to detect and prevent potential integer overflow issues using appropriate checks and data types.
